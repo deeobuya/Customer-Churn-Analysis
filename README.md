@@ -15,10 +15,10 @@ A full-cycle business analytics case study investigating customer churn for a te
 - What actions should management take?
 
 ## Tools Used
-- Microsoft Power BI ~ Power Query (cleaning, reference-query unpivoting), DAX measures for calculations & visualizations.
--Microsoft Word ~ Business Understanding Report, Dataset Inspection Report
--Microsoft PowerPoint ~ Executive business presentation
--Dataset ~ Telco Customer Churn (Kaggle)
+- Microsoft Power BI for cleaning, reference-query unpivoting on power query, DAX measures for calculations & visualizations.
+- Microsoft Word for business understanding report, dataset inspection report
+- Microsoft PowerPoint for executive business presentation
+- Dataset ~ Telco Customer Churn (Kaggle)
 
 ## Key Findings
 - Overall churn rate: 26.5% (1,869 of 7,043 customers)
