@@ -3,7 +3,7 @@
 ## Overview
 A full-cycle business analytics case study investigating customer churn for a telecommunications provider (ABC Communications Ltd, case study framing). The project covers data inspection and cleaning, exploratory analysis, visualization, and translates findings into concrete retention recommendations for management.
 
-!Dashboard(Preview)[Churn.png]
+![Dashboard Preview](Churn.png)
 
 ## Business Questions
 What does the customer base look like?
@@ -17,10 +17,13 @@ What actions should management take?
 ## Tools Used
 - Microsoft Power BI.
 Power Query (cleaning, reference-query unpivoting), DAX measures for calculations & visualizations.
+
 -Microsoft Word.
 Business Understanding Report, Dataset Inspection Report
+
 -Microsoft PowerPoint.
 Executive business presentation
+
 -Dataset
 Telco Customer Churn (Kaggle)
 
